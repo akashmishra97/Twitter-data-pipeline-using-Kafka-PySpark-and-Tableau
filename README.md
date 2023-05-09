@@ -1,4 +1,4 @@
-# Big Data Project: Twitter Data Pipeline with Kafka, PySpark, MySQL and Tableau
+# Real-Time Sentiment Analysis Pipeline with Kafka, PySpark, MySQL and Tableau
 
 This project demonstrates how to use Kafka, PySpark, and MySQL to process and store real-time streaming data. In this example, we will be working with Twitter data ie tweets related to chatgpt and classify them into 3 categories namely Positive, Negative and Neutral.
 
