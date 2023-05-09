@@ -2,7 +2,7 @@
 
 This project demonstrates how to use Kafka, PySpark, and MySQL to process and store real-time streaming data. In this example, we will be working with Twitter data ie tweets related to chatgpt and classify them into 3 categories namely Positive, Negative and Neutral.
 
-We will be usinng the following dataset : https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023 . We will be preprocessing this dataset with the steps mentioned in the data_cleaning.ipynb and then using it later.
+We will be usinng the following dataset : https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023 . We will be preprocessing this dataset with the steps mentioned in the **data_cleaning.ipynb** and then using it later.
 
 ### Prerequisites
   1. Anaconda
